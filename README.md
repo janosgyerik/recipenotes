@@ -27,4 +27,7 @@ Current features:
     - On tags list: delete tag (no confirmation popup)
     - On photo: delete photo, with confirmation popup
 
+To report problems or feature requests, you can either email me directly or use this page:
+https://github.com/janosgyerik/RecipeNotes/issues
+
 Project homepage: http://www.janosgyerik.com/projects/recipe-notes/
